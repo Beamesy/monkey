@@ -1,0 +1,17 @@
+{
+    "image1": {
+        "data": "hwQYABAAAAAAAADAAAAAAAAAAMAAAAAAAAAAsAAAAAAAAAC8DwAAAAAAwLr7AAAAAADAOvsAAAAAAKw6uw8AAADAqhO7+wAAAMA6mbH7AAAAwDoRufsAAADAmpmR+wAAwKw6MzO7DwDAqjozM7v7AKyqMzMzs7sPrKozMzOzuw+sqjozM7u7D8Csqjq7u/8AAMCsu7v/AAAAAMC7/wAAAAAAAEQEAAAAAAAAVAQAAAAAAABURAAAAAAAQFRFBAAAAABAVVVEAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "enemy space ship"
+    },
+    "r$[(4tQX/I)=WyrPeg~A": {
+        "data": "hwQYABAAAAAAAADwDwAAAAAAACwPAAAA/P/PIg8AAABMJPLCD8D8AMxEIswPL/IAwEwkwvwi8gAAzCzCLCLyAADALMIiIvIPAMAiwiJC/P8AwCLCIkT//wAvLCJM9P//AC8iIkL/L/IALyIiIvzM/PAsIiIi8sIPz0wimyLy/wDPTCKRIvIAAC9MJBEi8gAALy+0ESLyAAD/z5sZIvIAAP/Ambki8gAAAACcKyIPAAAAAMAiIg8AAAAAACzyAAAAAAAAwA8AAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "enmy ship"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
